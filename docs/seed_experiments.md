@@ -1,4 +1,4 @@
-# ----- experiments/seed_experiments.md -----
+# ----- seed_experiments.md -----
 # Random Seed Experiments
 
 ## Motivation
