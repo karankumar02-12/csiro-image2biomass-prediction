@@ -194,7 +194,7 @@ csiro-image2biomass-prediction/
 ├── README.md                          # Project documentation
 ├── requirements.txt                   # Python dependencies
 ├── LICENSE                            # MIT License
-├── .gitignore                        # Git ignore rules
+├── .gitignore                         # Git ignore rules
 │
 ├── notebooks/
 │   ├── 01_eda_exploration.ipynb      # Exploratory Data Analysis
@@ -204,7 +204,7 @@ csiro-image2biomass-prediction/
 ├── src/
 │   ├── __init__.py
 │   ├── config.py                     # Configuration parameters
-│   ├── feature_extraction.py        # Image feature functions
+│   ├── feature_extraction.py         # Image feature functions
 │   ├── models.py                     # Model training pipeline
 │   └── utils.py                      # Helper utilities
 │
@@ -317,9 +317,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: [@karankumar02-12](https://github.com/yourusername)
+- Email: karan.kumar021299@gmail.com
 
 ---
 
