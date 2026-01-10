@@ -209,9 +209,7 @@ csiro-image2biomass-prediction/
 │   └── utils.py                      # Helper utilities
 │
 ├── docs/
-│   ├── methodology.md                # Detailed approach
-│   ├── results.md                    # Performance analysis
-│   └── images/                       # Visualizations
+│   ├── methodology.md                # Detailed approach    
 │
 ├── data/
 │   └── README.md                     # Data download instructions
